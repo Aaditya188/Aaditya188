@@ -16,14 +16,11 @@ Here are some ideas to get you started:
 -->
 <h2> नमस्ते, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif' width='300" '>
+<img align='right' src='giphy.gif' width='400'>
 
-Hi, My name is Aaditya Prakash.  I am a technical geek, highly determined and focused, seeking an opportunity to maximize experience in the best possible manner. I'm dedicated, organized and self directed individual possesses great communication skills with emphasis on positive rapport and relationship building talents .
-I have a keen interest in Machine Learning and Web Development and also took part in many All India Hackathons .
+Hi, My name is Aaditya Prakash. I have a keen interest in Machine Learning and Web Development and also took part in many All India Hackathons.
 I am very dedicated to my work and passionate about implementing and launching new ideas. Fast learner and adaptable to different project environments.
 My work will be full of unique creativity and style .
-
-I am open to work as an intern and as a team member.
 
 ### Programming Languages  :rocket:
 |<img src="html.png" width=60> | <img src="css.png" width=60> | <img src="js.png" width=60> | <img src="bootstrap.png" width=60> | <img src="json.png" width=60> | <img src="python.png" width=60> |
