@@ -42,7 +42,7 @@ My work will be full of unique creativity and style .
 - 📫 LinkedIn profile: [Aaditya Prakash](https://www.linkedin.com/in/aaditya-prakash-36650b18b/)
 - 🎯 Myself in a web View: [My Portfolio](https://aadityaprakash.netlify.app/)
 - 🔔 Instagram:- [prak_aaditya](https://www.instagram.com/prak_aaditya/)
-- 🌀 Twitter:-   [Thе М̶ȯ̶̶ȯ̶ṉ̲](https://twitter.com/Aaditya99086923)
+- 🌀 Twitter:-   [Aaditya Prakash](https://twitter.com/Aaditya99086923)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya188&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
 
