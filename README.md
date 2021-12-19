@@ -34,7 +34,7 @@ My work will be full of unique creativity and style .
 
 
 
-![yashjoshi007 github stats](https://github-readme-stats.vercel.app/api?username=Aaditya188&&show_icons=true&title_color=ffffff&icon_color=e31bb4&text_color=daf7dc&bg_color=151515)
+![Aaditya Prakash github stats](https://github-readme-stats.vercel.app/api?username=Aaditya188&&show_icons=true&title_color=ffffff&icon_color=e31bb4&text_color=daf7dc&bg_color=151515)
 
 
 - 📫 How to reach me : (DO Follow the emoticon )✊
