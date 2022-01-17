@@ -1,19 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Aaditya188/Aaditya188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h2> नमस्ते, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='giphy.gif' width='400'>
@@ -21,6 +6,8 @@ Here are some ideas to get you started:
 Hi, My name is Aaditya Prakash. I have a keen interest in Machine Learning and Web Development and also took part in many All India Hackathons.
 I am very dedicated to my work and passionate about implementing and launching new ideas. Fast learner and adaptable to different project environments.
 My work will be full of unique creativity and style .
+
+
 
 ### Programming Languages  :rocket:
 |<img src="html.png" width=60> | <img src="css.png" width=60> | <img src="js.png" width=60> | <img src="bootstrap.png" width=60> | <img src="json.png" width=60> | <img src="python.png" width=60> |
@@ -31,8 +18,8 @@ My work will be full of unique creativity and style .
 |<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/hrucdojgwoypvzvtqq3e" width=60> |  <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffirebase.png?alt=media&token=b31bf89b-27a9-4192-9c7f-ae8eedb56554 " width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a" width=60> |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flogo-stable.png?alt=media&token=88a7cb79-fe86-46ab-b691-05d210131a99" width=60> |
 |:---:|:---:|:---:|:---:|
 
-### CP Profile :fire:
 
+### CP Profile :fire:
 #### Codeforces
 #### <a href="https://codeforces.com/profile/prakashaaditya18"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-programming-score.herokuapp.com/api/codeforces/prakashaaditya18&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=259200" alt="prakashaaditya18's profile on Codeforces" title="prakashaaditya18's profile on Codeforces"></a>
 
