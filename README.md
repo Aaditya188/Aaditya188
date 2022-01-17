@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2> नमस्ते, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='giphy.gif' width='400'>
+<img align='right' src='giphy.gif' width='360'>
 
 Hi, My name is Aaditya Prakash. I have a keen interest in Machine Learning and Web Development and also took part in many All India Hackathons.
 I am very dedicated to my work and passionate about implementing and launching new ideas. Fast learner and adaptable to different project environments.
