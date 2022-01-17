@@ -32,9 +32,12 @@ My work will be full of unique creativity and style .
 #### Codechef
 #### <a href="https://www.codechef.com/users/prakashaaditya"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/prakashaaditya&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="prakashaaditya's profile on CodeChef" title="prakashaaditya's profile on CodeChef"></a>
 
+#### Leetcode
+#### ![Aaditya Prakash LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=prakashaaditya18&theme=dark)
+
 
 ### Github Stats  :rocket:
-![Aaditya Prakash github stats](https://github-readme-stats.vercel.app/api?username=Aaditya188&&show_icons=true&title_color=ffffff&icon_color=e31bb4&text_color=daf7dc&bg_color=151515)
+![Aaditya Prakash Github Stats](https://github-readme-stats.vercel.app/api?username=Aaditya188&&show_icons=true&title_color=ffffff&icon_color=e31bb4&text_color=daf7dc&bg_color=151515)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya188&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
 
