@@ -7,6 +7,7 @@ Hi, My name is Aaditya Prakash. I have a keen interest in Machine Learning and W
 I am very dedicated to my work and passionate about implementing and launching new ideas. Fast learner and adaptable to different project environments.
 My work will be full of unique creativity and style .
 
+- 💬 Ask me about anything an everything.
 
 
 ### Programming Languages  :rocket:
@@ -35,7 +36,6 @@ My work will be full of unique creativity and style .
 
 
 - 📫 How to reach me : (DO Follow the emoticon )✊
-- 💬 Ask me about anything an everything.
 - 📫 LinkedIn profile: [Aaditya Prakash](https://www.linkedin.com/in/aaditya-prakash-36650b18b/)
 - 🎯 Myself in a web View: [My Portfolio](https://aadityaprakash.netlify.app/)
 - 🔔 Instagram:- [prak_aaditya](https://www.instagram.com/prak_aaditya/)
