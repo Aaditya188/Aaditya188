@@ -8,6 +8,11 @@ I am very dedicated to my work and passionate about implementing and launching n
 My work will be full of unique creativity and style .
 
 - 💬 Ask me about anything an everything.
+- 📫 How to reach me : (DO Follow the emoticon )✊
+- 📫 LinkedIn profile: [Aaditya Prakash](https://www.linkedin.com/in/aaditya-prakash-36650b18b/)
+- 🎯 Myself in a web View: [My Portfolio](https://aadityaprakash.netlify.app/)
+- 🔔 Instagram:- [prak_aaditya](https://www.instagram.com/prak_aaditya/)
+- 🌀 Twitter:-   [Aaditya Prakash](https://twitter.com/Aaditya99086923)
 
 
 ### Programming Languages  :rocket:
@@ -31,14 +36,6 @@ My work will be full of unique creativity and style .
 ### Github Stats  :rocket:
 ![Aaditya Prakash github stats](https://github-readme-stats.vercel.app/api?username=Aaditya188&&show_icons=true&title_color=ffffff&icon_color=e31bb4&text_color=daf7dc&bg_color=151515)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya188&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
-
-
-- 📫 How to reach me : (DO Follow the emoticon )✊
-- 📫 LinkedIn profile: [Aaditya Prakash](https://www.linkedin.com/in/aaditya-prakash-36650b18b/)
-- 🎯 Myself in a web View: [My Portfolio](https://aadityaprakash.netlify.app/)
-- 🔔 Instagram:- [prak_aaditya](https://www.instagram.com/prak_aaditya/)
-- 🌀 Twitter:-   [Aaditya Prakash](https://twitter.com/Aaditya99086923)
 
 ![](https://komarev.com/ghpvc/?username=Aaditya188&color=blue)
