@@ -25,7 +25,7 @@ My work will be full of unique creativity and style .
 |:---:|:---:|:---:|:---:|
 
 
-### CP Profile :fire:
+### Competitive Programming Profile :fire:
 #### Codeforces
 #### <a href="https://codeforces.com/profile/prakashaaditya18"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-programming-score.herokuapp.com/api/codeforces/prakashaaditya18&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=259200" alt="prakashaaditya18's profile on Codeforces" title="prakashaaditya18's profile on Codeforces"></a>
 
