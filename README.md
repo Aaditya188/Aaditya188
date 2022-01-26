@@ -12,7 +12,7 @@ My work will be full of unique creativity and style .
 - 📫 LinkedIn profile: [Aaditya Prakash](https://www.linkedin.com/in/aaditya-prakash-36650b18b/)
 - 🎯 Myself in a web View: [My Portfolio](https://aadityaprakash.netlify.app/)
 - 🔔 Instagram:- [prak_aaditya](https://www.instagram.com/prak_aaditya/)
-- 🌀 Twitter:-   [Aaditya Prakash](https://twitter.com/Aaditya99086923)
+- 🌀 Twitter:-   [Aaditya Prakash](https://twitter.com/prak_aaditya)
 
 
 ### Programming Languages  :rocket:
