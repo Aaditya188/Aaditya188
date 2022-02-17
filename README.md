@@ -9,7 +9,7 @@ My work will be full of unique creativity and style .
 
 - 💬 Ask me about anything an everything.
 - 📫 How to reach me : (DO Follow the emoticon )✊
-- 📫 LinkedIn profile: [Aaditya Prakash](https://www.linkedin.com/in/aaditya-prakash-36650b18b/)
+- 📫 LinkedIn profile: [Aaditya Prakash](https://www.linkedin.com/in/prakashaaditya18/)
 - 🎯 Myself in a web View: [My Portfolio](https://aadityaprakash.netlify.app/)
 - 🔔 Instagram:- [prak_aaditya](https://www.instagram.com/prak_aaditya/)
 - 🌀 Twitter:-   [Aaditya Prakash](https://twitter.com/prak_aaditya)
