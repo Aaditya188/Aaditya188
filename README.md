@@ -1,44 +1,86 @@
-### Hi there 👋
-<h2> नमस्ते, All <coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">Hi, I'm Aaditya Prakash 👋</h1>
 
-<img align='right' src='giphy.gif' width='400'>
+<p align="center">
+  <b>Full-stack &amp; AI/ML engineer.</b> I build self-hosted, privacy-first products and real-time web apps.
+</p>
 
-Hi, My name is Aaditya Prakash. I have a keen interest in Machine Learning and Web Development and also took part in many All India Hackathons.
-I am very dedicated to my work and passionate about implementing and launching new ideas. Fast learner and adaptable to different project environments.
-My work will be full of unique creativity and style .
+<p align="center">
+  <a href="https://aadityaprakash.netlify.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/prakashaaditya18/">LinkedIn</a> ·
+  <a href="https://twitter.com/prak_aaditya">Twitter</a> ·
+  <a href="https://leetcode.com/prakashaaditya18/">LeetCode</a>
+</p>
 
-- 💬 Ask me about anything an everything.
-- 📫 How to reach me : (DO Follow the emoticon )✊
-- 📫 LinkedIn profile: [Aaditya Prakash](https://www.linkedin.com/in/prakashaaditya18/)
-- 🎯 Myself in a web View: [My Portfolio](https://aadityaprakash.netlify.app/)
-- 🔔 Instagram:- [prak_aaditya](https://www.instagram.com/prak_aaditya/)
-- 🌀 Twitter:-   [Aaditya Prakash](https://twitter.com/prak_aaditya)
+---
 
+- 🔭 Currently building **[Nook Photos](https://github.com/Aaditya188/nook-photos)** — a self-hosted, AI-powered Google Photos alternative with semantic search and face recognition.
+- 🧩 I like the whole stack: type-safe TypeScript front to back, real-time systems, and shipping ML where it actually runs (browser, edge, on-device).
+- 🎓 Computer Science @ **SRM Institute of Science and Technology**.
+- 💬 Ask me about self-hosting, real-time collaboration, or running models in the browser.
+- 🌐 More at **[aadityaprakash.netlify.app](https://aadityaprakash.netlify.app/)**
 
-### Programming Languages  :rocket:
-|<img src="html.png" width=60> | <img src="css.png" width=60> | <img src="js.png" width=60> | <img src="bootstrap.png" width=60> | <img src="json.png" width=60> | <img src="python.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+## 🚀 Featured Projects
 
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Nook Photos](https://github.com/Aaditya188/nook-photos)** | Self-hosted, AI-powered Google Photos alternative — semantic search, face recognition, private by default. | `TypeScript` · `React Native` · `Fastify` · `ONNX` |
+| **[HeartNote](https://github.com/Aaditya188/heartnote)** | Interactive, animated experiences — letters, quizzes, and curated playlists. | `Vue 3` · `Convex` · `Three.js` |
+| **[Collab-IDE](https://github.com/Aaditya188/Collab-IDE)** | Real-time collaborative IDE with live code execution, built for competitive programming. | `TypeScript` · `WebSockets` |
+| **[Music Visualizer](https://github.com/Aaditya188/Music-Visualizer)** | 3D music visualization driven by the Web Audio API. | `Three.js` · `WebGL` |
+| **[WeSign](https://github.com/Aaditya188/WeSign)** | In-browser sign-language detection — no server round-trips. | `Next.js` · `TensorFlow.js` |
+| **[Error Sound](https://github.com/Aaditya188/Error-Sound-VS-Code-Extension)** | VS Code extension that plays a sound the moment your build breaks. | `TypeScript` · `VS Code API` |
 
-### Tools :fire:
-|<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/hrucdojgwoypvzvtqq3e" width=60> |  <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffirebase.png?alt=media&token=b31bf89b-27a9-4192-9c7f-ae8eedb56554 " width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a" width=60> |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flogo-stable.png?alt=media&token=88a7cb79-fe86-46ab-b691-05d210131a99" width=60> |
-|:---:|:---:|:---:|:---:|
+## 🛠️ Tech Stack
 
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Competitive Programming Profile :fire:
-#### Codeforces
-#### <a href="https://codeforces.com/profile/prak_aaditya"><img src="https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-programming-score.herokuapp.com/api/codeforces/prak_aaditya&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=259200" alt="prak_aaditya's profile on Codeforces" title="prak_aaditya's profile on Codeforces"></a>
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Codechef
-#### <a href="https://www.codechef.com/users/ap6885"><img src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.country_rank&url=https://competitive-programming-score.herokuapp.com/api/codechef/ap6885&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=259200" alt="ap6885's profile on CodeChef" title="ap6885's profile on CodeChef"></a>
+**Backend &amp; Data**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### Leetcode
-#### ![Aaditya Prakash LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=prakashaaditya18&theme=dark)
+**AI / ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+**Tooling**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Github Stats  :rocket:
-![Aaditya Prakash Github Stats](https://github-readme-stats.vercel.app/api?username=Aaditya188&&show_icons=true&title_color=ffffff&icon_color=e31bb4&text_color=daf7dc&bg_color=151515)
+## 📊 On GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya188&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact&hide=css)
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Aaditya188?label=Followers&style=for-the-badge&logo=github&color=6f42c1&labelColor=1c1c1c" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Aaditya188?label=Stars&style=for-the-badge&logo=github&color=f7b93e&labelColor=1c1c1c&affiliations=OWNER" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Aaditya188&label=Profile+Views&color=6f42c1&style=for-the-badge" alt="Profile views" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=Aaditya188&color=blue)
+<p align="left">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya188&theme=tokyonight&hide_border=true&background=1A1B27&ring=6f42c1&fire=f7b93e&currStreakLabel=6f42c1" alt="GitHub streak" />
+</p>
+
+## 🔗 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prakashaaditya18/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/prak_aaditya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://aadityaprakash.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/prakashaaditya18/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/prak_aaditya"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+</p>
