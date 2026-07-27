@@ -28,7 +28,7 @@
 | **[Collab-IDE](https://github.com/Aaditya188/Collab-IDE)** | Real-time collaborative IDE with live code execution, built for competitive programming. | `TypeScript` · `WebSockets` |
 | **[Music Visualizer](https://github.com/Aaditya188/Music-Visualizer)** | 3D music visualization driven by the Web Audio API. | `Three.js` · `WebGL` |
 | **[WeSign](https://github.com/Aaditya188/WeSign)** | In-browser sign-language detection — no server round-trips. | `Next.js` · `TensorFlow.js` |
-| **[Error Sound](https://github.com/Aaditya188/Error-Sound-VS-Code-Extension)** | VS Code extension that plays a sound the moment your build breaks. | `TypeScript` · `VS Code API` |
+| **[Astronomia Beats](https://github.com/Aaditya188/Astronomia-Web)** | Feature-rich Discord music bot (play, queue, history) with a web invite portal. | `JavaScript` · `Flask` · `Discord` |
 
 ## 🛠️ Tech Stack
 
